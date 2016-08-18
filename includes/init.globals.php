@@ -142,6 +142,7 @@ $GLOBALS['pagelines_user_pages'] = array();
 /**
  * Pro/Free Version Variables
  */
+define( 'VPRO',true);
 define( 'VPRO_NAME','PageLines Framework' );
 define( 'VPRO_TOUR','http://www.pagelines.com/tour/' );
 define( 'VPRO_PRICING','http://www.pagelines.com/pricing/' );
